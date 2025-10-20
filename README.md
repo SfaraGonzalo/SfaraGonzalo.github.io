@@ -1,7 +1,5 @@
 # 🌐 Portfolio Personal - Gonzalo Agustín Sfara
 
-![Banner del sitio](static/img/photos/perfil.png)
-
 Landing Page personal y portfolio profesional desarrollado por **Gonzalo Agustín Sfara**.  
 En este sitio se presentan mi perfil, formación, experiencia, habilidades, proyectos y formas de contacto.
 
